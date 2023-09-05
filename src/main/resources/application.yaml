@@ -1,0 +1,9 @@
+unstructured:
+  apiKey:
+
+openai:
+  apiKey:
+
+weaviate:
+  host:
+  apiKey:
